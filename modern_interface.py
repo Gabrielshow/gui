@@ -2,8 +2,8 @@
 
 import customtkinter
 
-customkinter.set_appearance_mode("dark")  #you can also change this "System"
-customkinter.set_defualt_color_theme("green")
+customtkinter.set_appearance_mode("dark")  #you can also change this "System"
+customtkinter.set_default_color_theme("green")
 
 root = customtkinter.CTk()
 root.geometry("500x350")
